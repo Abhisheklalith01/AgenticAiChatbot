@@ -1,0 +1,7 @@
+langchain>=0.2.0
+langchain-groq>=0.1.0
+langgraph>=0.1.0
+pydantic>=2.0.0
+chromadb>=0.4.22
+gspread>=6.0.0
+pytest>=7.0.0
