@@ -1,0 +1,9 @@
+transaction_id,timestamp,type,customer_name,item_or_service,total_price,details
+NT-236242,2026-11-28 16:23:56,repair_booking,Smartphone,Smartphone Battery Replacement,"₹1,800",Appointment booked for Friday. Express: False
+NT-236245,2026-11-28 16:23:56,repair_booking,Customer,General Tech Inspection & Service,Pending Inspection,Appointment booked for Upcoming Business Day. Express: False
+NT-261884,2026-11-28 16:24:21,repair_booking,Aarav,Smartphone Battery Replacement,"₹1,800",Appointment booked for Friday. Express: False
+NT-300444,2026-11-28 16:25:00,repair_booking,Meera,Thermal Repaste And Deep Cleaning,"₹1,200",Appointment booked for Saturday. Express: False
+NT-317541,2026-11-28 16:25:17,repair_booking,Rohan Verma,Smartphone Battery Replacement,"₹1,800",Appointment booked for Saturday. Express: False
+NT-317552,2026-11-28 16:25:17,repair_booking,Pooja,Laptop Screen Replacement,"₹4,000",Appointment booked for Wednesday. Express: False
+NT-332934,2026-11-28 16:25:32,repair_booking,Aarav,Smartphone Battery Replacement,"₹1,800",Appointment booked for Friday. Express: False
+NT-345538,2026-11-28 16:25:45,repair_booking,Aarav,Smartphone Battery Replacement,"₹1,800",Appointment booked for Friday. Express: False

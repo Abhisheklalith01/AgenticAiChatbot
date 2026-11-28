@@ -1,0 +1,98 @@
+[
+  {
+    "transaction_id": "NT-236242",
+    "timestamp": "2026-11-28 16:23:56",
+    "type": "repair_booking",
+    "customer_name": "Smartphone",
+    "item_or_service": "Smartphone Battery Replacement",
+    "appointment_day": "Friday",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "\u20b91,800",
+    "details": "Appointment booked for Friday. Express: False"
+  },
+  {
+    "transaction_id": "NT-236245",
+    "timestamp": "2026-11-28 16:23:56",
+    "type": "repair_booking",
+    "customer_name": "Customer",
+    "item_or_service": "General Tech Inspection & Service",
+    "appointment_day": "Upcoming Business Day",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "Pending Inspection",
+    "details": "Appointment booked for Upcoming Business Day. Express: False"
+  },
+  {
+    "transaction_id": "NT-261884",
+    "timestamp": "2026-11-28 16:24:21",
+    "type": "repair_booking",
+    "customer_name": "Aarav",
+    "item_or_service": "Smartphone Battery Replacement",
+    "appointment_day": "Friday",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "\u20b91,800",
+    "details": "Appointment booked for Friday. Express: False"
+  },
+  {
+    "transaction_id": "NT-300444",
+    "timestamp": "2026-11-28 16:25:00",
+    "type": "repair_booking",
+    "customer_name": "Meera",
+    "item_or_service": "Thermal Repaste And Deep Cleaning",
+    "appointment_day": "Saturday",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "\u20b91,200",
+    "details": "Appointment booked for Saturday. Express: False"
+  },
+  {
+    "transaction_id": "NT-317541",
+    "timestamp": "2026-11-28 16:25:17",
+    "type": "repair_booking",
+    "customer_name": "Rohan Verma",
+    "item_or_service": "Smartphone Battery Replacement",
+    "appointment_day": "Saturday",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "\u20b91,800",
+    "details": "Appointment booked for Saturday. Express: False"
+  },
+  {
+    "transaction_id": "NT-317552",
+    "timestamp": "2026-11-28 16:25:17",
+    "type": "repair_booking",
+    "customer_name": "Pooja",
+    "item_or_service": "Laptop Screen Replacement",
+    "appointment_day": "Wednesday",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "\u20b94,000",
+    "details": "Appointment booked for Wednesday. Express: False"
+  },
+  {
+    "transaction_id": "NT-332934",
+    "timestamp": "2026-11-28 16:25:32",
+    "type": "repair_booking",
+    "customer_name": "Aarav",
+    "item_or_service": "Smartphone Battery Replacement",
+    "appointment_day": "Friday",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "\u20b91,800",
+    "details": "Appointment booked for Friday. Express: False"
+  },
+  {
+    "transaction_id": "NT-345538",
+    "timestamp": "2026-11-28 16:25:45",
+    "type": "repair_booking",
+    "customer_name": "Aarav",
+    "item_or_service": "Smartphone Battery Replacement",
+    "appointment_day": "Friday",
+    "contact_info": "In-store Walk-in",
+    "express_rush": false,
+    "total_price": "\u20b91,800",
+    "details": "Appointment booked for Friday. Express: False"
+  }
+]

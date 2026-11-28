@@ -1,0 +1,13 @@
+{
+  "store_info": "NovaTech Gadgets & Repair Studio is a premier computer hardware and electronic repair shop located in the central tech district.",
+  "policies": {
+    "warranty": "Brand-new accessories and hardware components include a 1-year manufacturer replacement warranty. All repair services and replaced replacement parts carry a 90-day parts and labor guarantee against functional defects.",
+    "diagnostic_fee": "We charge an initial diagnostic inspection fee of ₹300 if the customer decides not to proceed with the quoted repair. If the customer approves the repair work, the entire ₹300 diagnostic fee is 100% waived off the final bill.",
+    "returns_and_refunds": "We offer a 7-day hassle-free return window for brand-new, unopened boxed items in original condition with sales receipt. Defective electronic goods can be swapped within a 14-day replacement window.",
+    "express_priority_repair": "Customers needing urgent turnaround can opt for our Express Rush Repair service for an additional flat ₹500 fee, which guarantees completion within 4 hours provided replacement parts are in stock.",
+    "payment_methods": "We accept UPI (Google Pay, PhonePe, Paytm), Visa/Mastercard/RuPay credit and debit cards, net banking, and cash on in-store pickup. For custom component orders or repairs exceeding ₹10,000, a 30% advance deposit is required.",
+    "pickup_and_delivery": "Customers may pick up repaired items during business hours. In-city courier delivery is available for ₹100 flat fee, and is free for orders or repair invoices exceeding ₹2,500.",
+    "water_liquid_damage": "Liquid damage repairs require ultrasonic motherboard cleaning and multi-point micro-soldering inspection. While we have an 80% revival rate, liquid damage repairs do not carry the standard 90-day warranty due to potential ongoing corrosion risks.",
+    "student_discount": "Students with a valid university or college photo ID card receive a 10% discount on labor fees for all laptop and phone repair services."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "store_name": "NovaTech Gadgets & Repair Studio",
+  "currency": "INR",
+  "symbol": "₹",
+  "hours": {
+    "monday": "10:00 AM to 8:30 PM",
+    "tuesday": "10:00 AM to 8:30 PM",
+    "wednesday": "10:00 AM to 8:30 PM",
+    "thursday": "10:00 AM to 8:30 PM",
+    "friday": "10:00 AM to 8:30 PM",
+    "saturday": "10:00 AM to 8:30 PM",
+    "sunday": "11:00 AM to 5:00 PM"
+  },
+  "products": {
+    "mechanical keyboard": {
+      "price": 4500,
+      "stock": 14,
+      "category": "Accessories",
+      "description": "RGB Hot-swappable mechanical keyboard with custom switches"
+    },
+    "wireless gaming mouse": {
+      "price": 2800,
+      "stock": 22,
+      "category": "Accessories",
+      "description": "Ultra-lightweight 26K DPI optical sensor mouse"
+    },
+    "noise cancelling headphones": {
+      "price": 7999,
+      "stock": 8,
+      "category": "Audio",
+      "description": "Active Noise Cancelling Bluetooth over-ear headphones"
+    },
+    "usb-c docking station": {
+      "price": 3499,
+      "stock": 19,
+      "category": "Cables & Hubs",
+      "description": "10-in-1 multi-port 4K dual display USB-C dock"
+    },
+    "gaming monitor 27 inch": {
+      "price": 16500,
+      "stock": 5,
+      "category": "Monitors",
+      "description": "144Hz 1ms IPS QHD 27-inch gaming display"
+    },
+    "1tb nvme ssd": {
+      "price": 6200,
+      "stock": 30,
+      "category": "Storage",
+      "description": "PCIe Gen 4.0 high speed internal solid state drive"
+    }
+  },
+  "repair_services": {
+    "laptop screen replacement": {
+      "price": 4000,
+      "turnaround": "24-48 hours",
+      "notes": "Includes genuine A+ grade panel and installation"
+    },
+    "thermal repaste and deep cleaning": {
+      "price": 1200,
+      "turnaround": "Same day (3 hours)",
+      "notes": "Premium Arctic MX-6 paste and high-pressure fan cleaning"
+    },
+    "smartphone battery replacement": {
+      "price": 1800,
+      "turnaround": "2 hours",
+      "notes": "Original OEM certified battery with calibration"
+    },
+    "data recovery": {
+      "price": 2500,
+      "turnaround": "2 to 3 business days",
+      "notes": "Logical deleted partition and formatted drive extraction"
+    }
+  }
+}

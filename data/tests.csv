@@ -1,0 +1,11 @@
+id,user_message,expected_intent,expected_tool,expected_keyword
+1,What time do you close on Sunday?,faq,get_store_hours,5:00 PM
+2,How much is the thermal repaste and deep cleaning service?,pricing,get_price_and_stock,1200
+3,Do you have mechanical keyboards in stock?,pricing,get_price_and_stock,4500
+4,What is your warranty policy on laptop repairs?,faq,search_policies,90-day
+5,Is there a diagnostic charge if I bring in my PC for inspection?,faq,search_policies,300
+6,Can a college student get any discount on repair labor?,faq,search_policies,10%
+7,Do you accept UPI or Google Pay?,faq,search_policies,UPI
+8,I want to book an appointment for smartphone battery replacement for customer Aarav on Friday,order_booking,book_repair_order,confirmed
+9,What happens if my phone has water damage?,faq,search_policies,ultrasonic
+10,Can you rush my repair urgently today?,faq,search_policies,500
